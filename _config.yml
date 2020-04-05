@@ -19,16 +19,16 @@ baseurl:
 permalink: pretty
 
 # Pagination
-paginate: 5
+paginate: 10
 paginate_path: "/page:num/"
 archive:
-  paginate: 10
+  paginate: 20
   paginate_path: "/page:num/"
 category:
-  paginate: 10
+  paginate: 20
   paginate_path: "/page:num/"
 tag:
-  paginate: 10
+  paginate: 20
   paginate_path: "/page:num/"
 
 # Handling Reading
@@ -413,7 +413,7 @@ wildfire:
   # other configs
   theme: light # or dark
   locale: zh-CN # or other locales, e.g. zh-CN
-  defaultAvatarURL: 
+  defaultAvatarURL: /assets/images/commentAvatar.jpg
 # Any question? 
 # Raise an issue here: https://github.com/cheng-kang/wildfire/issues
 # </wildfire>
