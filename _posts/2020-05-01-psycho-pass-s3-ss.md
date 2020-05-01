@@ -79,7 +79,7 @@ Disclaimer：我<s>只代表自己</s>把 [Psycho-Pass S3](https://movie.douban.
 
 看完第一集的我：
 
-<img src="http://ww1.sinaimg.cn/large/9150e4e5ly1fe0hym894hj205i04ijrg.jpg" width="30%"></img>
+<img src="http://ww1.sinaimg.cn/large/9150e4e5ly1fe0hym894hj205i04ijrg.jpg" width="30%">
 
 为了传说中的 call 酱和 gino，我姑且继续看下去。
 
@@ -87,7 +87,7 @@ Disclaimer：我<s>只代表自己</s>把 [Psycho-Pass S3](https://movie.douban.
 
 看完的我：
 
-<img src="http://wx4.sinaimg.cn/large/005J4OU5ly1gdvck1c5anj30u00u0q8l.jpg" width="30%"></img>
+<img src="http://wx4.sinaimg.cn/large/005J4OU5ly1gdvck1c5anj30u00u0q8l.jpg" width="30%">
 
 看到这里，我基本可以肯定，冲方丁想探讨的东西，和老虚从来不在一个维度。哪怕都 2020 年了（动画里甚至是 2120 年），冲方丁还在讲次贷，讲 AI 伦理，这种被前辈嚼烂了的土味话题出现在 PP 里，让人不知该说什么好。
 
