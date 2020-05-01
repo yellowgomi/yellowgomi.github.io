@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "槽点过于密集： Psycho-Pass S3"
-date: 2020-05-01
-categories:
-tags:
+date: 2020-05-01 21:20
+categories: [杂食脑洞]
+tags: [acg, anime, 评论]
 ---
 
 
