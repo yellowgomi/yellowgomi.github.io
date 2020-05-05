@@ -133,11 +133,11 @@ Anki 虽好，但自从我开始社畜后就越来越少打开它了。主要原
 
 《银河铁道之夜》，目前进度 26%，epub 版本在 Apple Books 的显示效果很舒服 👇
 
-![Apple Books 银河铁道之夜](/assets/images/2020/apple-books-ginga.jpg)
+<img src="/assets/images/2020/apple-books-ginga.jpg" alt="Apple Books 银河铁道之夜" width="50%">
 
 划词搜索也很方便，唯一苦恼的是 Apple 自带词典的词条似乎不太多，不过配合 [MOJi 辞書](https://sspai.com/post/45299)也基本够用。
 
-![MOJi 辞書](/assets/images/2020/moji-japanese.jpg)
+<img src="/assets/images/2020/moji-japanese.jpg" alt="MOJi 辞書" width="50%">
 
 读儿童文学时仍然会遇到看不懂的句子，坚持下去的话，应该会有所进步吧？
 
