@@ -153,7 +153,8 @@
                   <i class="fa fa-comment-o"></i>
                 </span>
                 <a href="{{ post.url | relative_url }}#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count wf-count-unit" wf-page-url="{{ post.url | absolute_url }}" itemprop="commentCount"></span>
+                  <!-- <span class="post-comments-count wf-count-unit" wf-page-url="{{ post.url | absolute_url }}" itemprop="commentCount"></span> -->
+                  <span class="wf-discussion-count-unit" wf-page-url="{{ post.url | absolute_url }}" itemprop="commentCount"></span>
                 </a>
               </span>
             {% elsif site.hypercomments_id %}
@@ -241,6 +242,7 @@
               {% endif %}
 
               {% if site.post_wordcount.min2read %}
+                <span class="post-meta-divider">|</span>
                 <span class="post-meta-item-icon">
                   <i class="fa fa-clock-o"></i>
                 </span>
@@ -248,7 +250,7 @@
                   <span class="post-meta-item-text">{{ __.post.min2read }}</span>
                 {% endif %}
                 <span title="{{ __.post.min2read }}">
-                  {{ wordcount | divided_by: 200 }}
+                  {{ wordcount | divided_by: 200 | at_least: 1 }}
                 </span>
               {% endif %}
             </div>
