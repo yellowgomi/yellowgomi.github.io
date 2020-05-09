@@ -231,7 +231,7 @@ social_icons:
   GitHub: github
   Twitter: twitter
   #Weibo: weibo
-  Douban: seedling
+  Douban:
 
 
 # Sidebar Avatar
@@ -332,7 +332,7 @@ post_wordcount:
 
 # Declare license on posts
 post_copyright:
-  enable: false
+  enable: true
   license: CC BY-NC-SA 3.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
@@ -392,7 +392,7 @@ disqus:
 
 # <wildfire>
 wildfire:
-  enable: false
+  enable: true
   # version - It's recommended to use the following versions.
   loaderVersion: 1.2.5 # https://www.npmjs.com/package/wildfire-comment
   useDev: true
@@ -528,7 +528,7 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: true
+  enable: false
   app_id: 5sM8QWtSSa6x4XW3KjfWCNR1-gzGzoHsz
   app_key: te06L45sea61p2CsibpocnKb
 
