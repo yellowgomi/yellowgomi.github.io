@@ -16,7 +16,7 @@ tags: [life,工作,summary]
 
 ## 工作
 
-这半年最 remarkable 也是最显而易见的成就就是找到了一份[喜欢且足以维生的工作](/_posts/2020-04-05-connecting-the-dots.md)。从入职到现在已经五个多月，一直以 intern 的身份远程办公，昨天终于去公司签完劳动合同，正式卖身了。
+这半年最 remarkable 也是最显而易见的成就就是找到了一份[喜欢且足以维生的工作](/lifecrash/2020/04/05/connecting-the-dots/)。从入职到现在已经五个多月，一直以 intern 的身份远程办公，昨天终于去公司签完劳动合同，正式卖身了。
 
 同事都很 nice，leader 有时热情得让我无法招架。工作内容大致是感兴趣的，目前看来未来的可能性也不错。
 
@@ -52,7 +52,7 @@ tags: [life,工作,summary]
 
 ![Nespresso Inissia](https://i.loli.net/2020/07/11/hcuK9QmDI3nCopt.jpg)
 
-去年底我还在[为咖啡因摄入过多发愁](/_posts/2019-11-07-everyday-struggle.md)，现在我只担心我代谢太慢，不能每天多喝一杯（。）
+去年底我还在[为咖啡因摄入过多发愁](/社畜生活/2019/11/07/everyday-struggle/)，现在我只担心我代谢太慢，不能每天多喝一杯（。）
 
 ### Misc
 
@@ -85,7 +85,7 @@ tags: [life,工作,summary]
 
 ## Retrospective 
 
-再看看年初许下的[新年愿望](/_posts/2020-01-01-New-Year-Resolution-2020.md)。
+再看看年初许下的[新年愿望](/lifecrash/2020/01/01/New-Year-Resolution-2020/)。
 
 ### 工作
 
