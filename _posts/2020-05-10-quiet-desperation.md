@@ -2,7 +2,7 @@
 layout: post
 title: On the quest for meaning I found none
 date: 2020-05-10 21:36
-published: true
+published: false
 draft: false
 categories: [LifeCrash]
 tags: [life, 悩み]
