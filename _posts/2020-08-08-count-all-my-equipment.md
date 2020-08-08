@@ -121,7 +121,7 @@ Repeat after me: **iPhone SE was the best iPhone ever, only second to iPhone SE 
 
 蓝牙单模 + 67 键 + 奶酪绿 = 见过这么美的机械键盘吗？
 
-![Filco Minila Air](/assets/images/2020/filco-minila-air.jpg)
+![Filco Minila Air](/assets/images/2020/filco-minila-air.jpeg)
 
 红轴，直上直下，适合打字。蓝牙，让我的桌面又少了根线。双 fn 键的设计很实用，意味着对于 home/end/delete/上下左右键，我不需要抬起手腕。唯一不满意的是不支持一键切换设备。
 
