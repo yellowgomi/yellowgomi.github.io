@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 设备是第二生产力
-date: 
-categories: 
+date: 2020-08-08
+categories: Geekie
 excerpt: （DDL 是第一）
 tags: [productivity, tech]
 ---
