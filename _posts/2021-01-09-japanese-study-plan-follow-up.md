@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2020 后半日语学习进（困）展（境）报告
-date: 2020-01-09
+date: 2021-01-09
 categories: 勉強中
 tags: [学习, 日语]
 excerpt: 关于过去七个月我的日语文学阅读进展这件事。
