@@ -3,7 +3,7 @@ layout: page
 type: about
 ---
 
-Hello，我是黄色废料。虽然社恐，但也很高兴你找到这里。
+Hello，我是黄色废料。欢迎跟我聊天：[twitter](https://twitter.com/yeI1ow)，[豆瓣](https://www.douban.com/people/give_me_a_mask/)。
 
 ### 最近在做些什么
 
